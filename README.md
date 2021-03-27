@@ -1,6 +1,6 @@
 ## About me
 
-Born in 1982. Coding since child, although meantime I made successful carrier as a <a href="https://en.wikipedia.org/wiki/Session_musician">session musician</a> (check out my <a href="http://kamilbaranski.com/">music webpage</a> <span title="Polish language only">🇵🇱PL</span>).
+Born in 1982. Coding since child, although meantime I made successful career as a <a href="https://en.wikipedia.org/wiki/Session_musician">session musician</a> (check out my <a href="http://kamilbaranski.com/">music webpage</a> <span title="Polish language only">🇵🇱PL</span>).
 
 ## Technologies
 
